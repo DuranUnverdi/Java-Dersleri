@@ -6,10 +6,13 @@ public class Odev {
     public static void main(String[] args) {
 
         Odev odev = new Odev();
+
         String result = odev.odev1();
         System.out.println(result);
+
         float result2 = odev.odev2();
         System.out.println(result2);
+
         boolean result3 = odev.odev3();
         System.out.println(result3);
 
